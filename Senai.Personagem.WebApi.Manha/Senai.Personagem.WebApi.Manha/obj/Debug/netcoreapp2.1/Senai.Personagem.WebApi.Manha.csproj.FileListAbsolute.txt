@@ -1,0 +1,14 @@
+C:\Users\49406810840\source\repos\Senai.Personagem.WebApi.Manha\Senai.Personagem.WebApi.Manha\bin\Debug\netcoreapp2.1\Senai.Personagem.WebApi.Manha.deps.json
+C:\Users\49406810840\source\repos\Senai.Personagem.WebApi.Manha\Senai.Personagem.WebApi.Manha\bin\Debug\netcoreapp2.1\Senai.Personagem.WebApi.Manha.runtimeconfig.json
+C:\Users\49406810840\source\repos\Senai.Personagem.WebApi.Manha\Senai.Personagem.WebApi.Manha\bin\Debug\netcoreapp2.1\Senai.Personagem.WebApi.Manha.runtimeconfig.dev.json
+C:\Users\49406810840\source\repos\Senai.Personagem.WebApi.Manha\Senai.Personagem.WebApi.Manha\bin\Debug\netcoreapp2.1\Senai.Personagem.WebApi.Manha.dll
+C:\Users\49406810840\source\repos\Senai.Personagem.WebApi.Manha\Senai.Personagem.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Personagem.WebApi.Manha.csprojAssemblyReference.cache
+C:\Users\49406810840\source\repos\Senai.Personagem.WebApi.Manha\Senai.Personagem.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Personagem.WebApi.Manha.csproj.CoreCompileInputs.cache
+C:\Users\49406810840\source\repos\Senai.Personagem.WebApi.Manha\Senai.Personagem.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Personagem.WebApi.Manha.RazorAssemblyInfo.cache
+C:\Users\49406810840\source\repos\Senai.Personagem.WebApi.Manha\Senai.Personagem.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Personagem.WebApi.Manha.RazorAssemblyInfo.cs
+C:\Users\49406810840\source\repos\Senai.Personagem.WebApi.Manha\Senai.Personagem.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Personagem.WebApi.Manha.AssemblyInfoInputs.cache
+C:\Users\49406810840\source\repos\Senai.Personagem.WebApi.Manha\Senai.Personagem.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Personagem.WebApi.Manha.AssemblyInfo.cs
+C:\Users\49406810840\source\repos\Senai.Personagem.WebApi.Manha\Senai.Personagem.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Personagem.WebApi.Manha.RazorTargetAssemblyInfo.cache
+C:\Users\49406810840\source\repos\Senai.Personagem.WebApi.Manha\Senai.Personagem.WebApi.Manha\bin\Debug\netcoreapp2.1\Senai.Personagem.WebApi.Manha.pdb
+C:\Users\49406810840\source\repos\Senai.Personagem.WebApi.Manha\Senai.Personagem.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Personagem.WebApi.Manha.dll
+C:\Users\49406810840\source\repos\Senai.Personagem.WebApi.Manha\Senai.Personagem.WebApi.Manha\obj\Debug\netcoreapp2.1\Senai.Personagem.WebApi.Manha.pdb
