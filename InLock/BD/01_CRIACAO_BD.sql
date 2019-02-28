@@ -1,0 +1,32 @@
+--Criação
+
+--Cria um Banco de Dados
+CREATE DATABASE InLock_Games_Manha;
+
+--Usa o Banco de Dados
+USE InLock_Games_Manha;
+
+--Cria Tabela 'ESTUDIOS'
+CREATE TABLE ESTUDIOS(
+	EstudioId INT IDENTITY PRIMARY KEY 
+	,NomeEstudio VARCHAR(200) UNIQUE NOT NULL
+)
+
+--Cria Tabela 'JOGOS'
+CREATE TABLE JOGOS(
+	JogoId INT IDENTITY PRIMARY KEY
+	,NomeJogo VARCHAR(250) UNIQUE NOT NULL
+	,Descricao TEXT NOT NULL
+	,DataLancamento DATETIME NOT NULL
+	,Valor DECIMAL
+	,EstudioId INT FOREIGN KEY REFERENCES ESTUDIOS(EstudioId)
+);
+
+
+--Cria Tabela 'USUARIOS'
+CREATE TABLE USUARIOS(
+	UsuarioId INT IDENTITY PRIMARY KEY
+	,Email VARCHAR(250) UNIQUE NOT NULL
+	,Senha VARCHAR(200) NOT NULL
+	,TipoUsuario VARCHAR(50) NOT NULL
+);

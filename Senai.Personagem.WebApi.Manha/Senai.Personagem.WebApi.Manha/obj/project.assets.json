@@ -12647,11 +12647,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\49406810840\\source\\repos\\Senai.Personagem.WebApi.Manha\\Senai.Personagem.WebApi.Manha\\Senai.Personagem.WebApi.Manha.csproj",
+      "projectUniqueName": "C:\\Users\\49406810840\\Documents\\Sprint 2\\Senai.Personagem.WebApi.Manha\\Senai.Personagem.WebApi.Manha\\Senai.Personagem.WebApi.Manha.csproj",
       "projectName": "Senai.Personagem.WebApi.Manha",
-      "projectPath": "C:\\Users\\49406810840\\source\\repos\\Senai.Personagem.WebApi.Manha\\Senai.Personagem.WebApi.Manha\\Senai.Personagem.WebApi.Manha.csproj",
+      "projectPath": "C:\\Users\\49406810840\\Documents\\Sprint 2\\Senai.Personagem.WebApi.Manha\\Senai.Personagem.WebApi.Manha\\Senai.Personagem.WebApi.Manha.csproj",
       "packagesPath": "C:\\Users\\49406810840\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\49406810840\\source\\repos\\Senai.Personagem.WebApi.Manha\\Senai.Personagem.WebApi.Manha\\obj\\",
+      "outputPath": "C:\\Users\\49406810840\\Documents\\Sprint 2\\Senai.Personagem.WebApi.Manha\\Senai.Personagem.WebApi.Manha\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

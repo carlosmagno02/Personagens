@@ -1,0 +1,17 @@
+C:\Users\49406810840\Documents\Sprint 2\SenaiInLockDataBase\SenaiInLockDataBase\bin\Debug\netcoreapp2.1\SenaiInLockDataBase.deps.json
+C:\Users\49406810840\Documents\Sprint 2\SenaiInLockDataBase\SenaiInLockDataBase\bin\Debug\netcoreapp2.1\SenaiInLockDataBase.runtimeconfig.json
+C:\Users\49406810840\Documents\Sprint 2\SenaiInLockDataBase\SenaiInLockDataBase\bin\Debug\netcoreapp2.1\SenaiInLockDataBase.runtimeconfig.dev.json
+C:\Users\49406810840\Documents\Sprint 2\SenaiInLockDataBase\SenaiInLockDataBase\bin\Debug\netcoreapp2.1\SenaiInLockDataBase.dll
+C:\Users\49406810840\Documents\Sprint 2\SenaiInLockDataBase\SenaiInLockDataBase\bin\Debug\netcoreapp2.1\SenaiInLockDataBase.pdb
+C:\Users\49406810840\Documents\Sprint 2\SenaiInLockDataBase\SenaiInLockDataBase\bin\Debug\netcoreapp2.1\dotnet-ef.dll
+C:\Users\49406810840\Documents\Sprint 2\SenaiInLockDataBase\SenaiInLockDataBase\bin\Debug\netcoreapp2.1\Swashbuckle.AspNetCore.dll
+C:\Users\49406810840\Documents\Sprint 2\SenaiInLockDataBase\SenaiInLockDataBase\obj\Debug\netcoreapp2.1\SenaiInLockDataBase.csprojAssemblyReference.cache
+C:\Users\49406810840\Documents\Sprint 2\SenaiInLockDataBase\SenaiInLockDataBase\obj\Debug\netcoreapp2.1\SenaiInLockDataBase.csproj.CoreCompileInputs.cache
+C:\Users\49406810840\Documents\Sprint 2\SenaiInLockDataBase\SenaiInLockDataBase\obj\Debug\netcoreapp2.1\SenaiInLockDataBase.RazorAssemblyInfo.cache
+C:\Users\49406810840\Documents\Sprint 2\SenaiInLockDataBase\SenaiInLockDataBase\obj\Debug\netcoreapp2.1\SenaiInLockDataBase.RazorAssemblyInfo.cs
+C:\Users\49406810840\Documents\Sprint 2\SenaiInLockDataBase\SenaiInLockDataBase\obj\Debug\netcoreapp2.1\SenaiInLockDataBase.AssemblyInfoInputs.cache
+C:\Users\49406810840\Documents\Sprint 2\SenaiInLockDataBase\SenaiInLockDataBase\obj\Debug\netcoreapp2.1\SenaiInLockDataBase.AssemblyInfo.cs
+C:\Users\49406810840\Documents\Sprint 2\SenaiInLockDataBase\SenaiInLockDataBase\obj\Debug\netcoreapp2.1\SenaiInLockDataBase.RazorTargetAssemblyInfo.cache
+C:\Users\49406810840\Documents\Sprint 2\SenaiInLockDataBase\SenaiInLockDataBase\obj\Debug\netcoreapp2.1\SenaiInLockDataBase.csproj.CopyComplete
+C:\Users\49406810840\Documents\Sprint 2\SenaiInLockDataBase\SenaiInLockDataBase\obj\Debug\netcoreapp2.1\SenaiInLockDataBase.dll
+C:\Users\49406810840\Documents\Sprint 2\SenaiInLockDataBase\SenaiInLockDataBase\obj\Debug\netcoreapp2.1\SenaiInLockDataBase.pdb
