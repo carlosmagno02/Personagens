@@ -8,5 +8,7 @@ namespace SenaiInLockDataBase.Interfaces
         List<Jogos> Listar();
 
         void Cadastrar(Jogos jogos);
+
+
     }
 }
